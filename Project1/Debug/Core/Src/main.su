@@ -1,0 +1,13 @@
+main.c:106:6:UartPrint	16	static
+main.c:113:6:LCD_Init	8	static
+main.c:122:6:LCD_Data	16	static
+main.c:165:6:LCD_Command	16	static
+main.c:177:6:LCD_WriteChar	16	static
+main.c:189:6:LCD_WriteString	24	static
+main.c:197:6:LCD_print_time	40	static
+main.c:210:5:main	8	static
+main.c:267:6:SystemClock_Config	72	static
+main.c:302:13:MX_TIM2_Init	32	static
+main.c:347:13:MX_USART1_UART_Init	8	static
+main.c:380:13:MX_GPIO_Init	40	static
+main.c:435:6:Error_Handler	4	static,ignoring_inline_asm
